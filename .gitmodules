@@ -1,0 +1,27 @@
+[submodule "addons/vsk_vrm_avatar_tool"]
+	path = addons/vsk_vrm_avatar_tool
+	url = https://github.com/V-Sekai/vsk_vrm_avatar_tool.git
+[submodule "addons/vsk_avatar"]
+	path = addons/vsk_avatar
+	url = https://github.com/V-Sekai/vsk_avatar.git
+[submodule "addons/vsk_importer_exporter"]
+	path = addons/vsk_importer_exporter
+	url = https://github.com/V-Sekai/vsk_importer_exporter.git
+[submodule "addons/gd_util"]
+	path = addons/gd_util
+	url = https://github.com/V-Sekai/gd_util.git
+[submodule "addons/math_util"]
+	path = addons/math_util
+	url = https://github.com/V-Sekai/math_util.git
+[submodule "addons/vsk_map"]
+	path = addons/vsk_map
+	url = git@github.com:V-Sekai/vsk_map.git
+[submodule "addons/entity_manager"]
+	path = addons/entity_manager
+	url = https://github.com/V-Sekai/entity_manager.git
+[submodule "addons/network_manager"]
+	path = addons/network_manager
+	url = https://github.com/V-Sekai/network_manager.git
+[submodule "addons/sar1_log_manager"]
+	path = addons/sar1_log_manager
+	url = https://github.com/V-Sekai/sar1_log_manager.git
